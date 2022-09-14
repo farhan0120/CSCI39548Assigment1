@@ -3,3 +3,28 @@ body {
     background-color: #b5d6ab;
     text-align: center;
   }
+
+  a {
+    text-decoration: none;
+    color: #F0E68C;
+    background-color: lavender;
+    padding: 10px;
+    border-radius: 25px;
+  }
+
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 15px;
+  }
+
+div {
+    margin-bottom: 10px;
+ }
+
+.link {
+    margin: 40px;
+    }
