@@ -14,7 +14,7 @@ body {
 
 
   img {
-    float: left;
+    float: center;
     display: block;
     margin: auto;
     width: 30%;
